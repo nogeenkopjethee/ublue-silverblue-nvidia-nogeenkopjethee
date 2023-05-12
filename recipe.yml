@@ -36,7 +36,6 @@ rpms:
   - zsh
   - jetbrains-mono-fonts
   - mozilla-fira-sans-fonts
-  - intel-undervolt
   # add your own below
 # These Flatpaks (from flathub) will be available for install on boot,
 # they will not be installed in the image and need to be installed by a firstboot setup tool such as yafti.
